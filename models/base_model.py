@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""class of BaseModel"""               
+"""class of t BaseModel"""               
 
 from uuid import uuid4
 import models
@@ -11,7 +11,6 @@ class BaseModel:
 
     def __init__(self, *args, **kwargs):
         """to Initialise                         
-
         Args:
             *args (any): arg one
             **kwargs (dict): arg two

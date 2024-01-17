@@ -1,11 +1,10 @@
 #!/usr/bin/python3
-""" class of the Place"""             
+""" class of t Place"""             
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
     """Place class               
-
     Attributes:
         city_id (str): one
         user_id (str): two

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Storage file class"""                    
+"""Storage of a file class"""                    
 import json
 from models.base_model import BaseModel
 from models.user import User

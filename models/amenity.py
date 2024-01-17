@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""class of Amenity """                 
+"""class of t Amenity """                 
 from models.base_model import BaseModel
 
 

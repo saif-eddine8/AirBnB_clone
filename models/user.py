@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""class of the User """                   
+"""class of t User """                   
 from models.base_model import BaseModel
 
 
